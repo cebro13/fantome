@@ -96,19 +96,19 @@ MonoBehaviour:
   active: 1
   postExposure:
     m_OverrideState: 1
-    m_Value: 0.51
+    m_Value: 0.87
   contrast:
     m_OverrideState: 1
-    m_Value: -4.3
+    m_Value: 7.8
   colorFilter:
     m_OverrideState: 1
     m_Value: {r: 1, g: 0.8808183, b: 0.740566, a: 1}
   hueShift:
     m_OverrideState: 1
-    m_Value: 0.8
+    m_Value: 4.4
   saturation:
     m_OverrideState: 1
-    m_Value: -44.3
+    m_Value: -26.8
 --- !u!114 &-7011558710299706105
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -311,7 +311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
   m_Name: WhiteBalance
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   temperature:
     m_OverrideState: 1
     m_Value: 19.1
